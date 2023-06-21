@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Jaynik Parsotomo</h1>
 
-I'm a zealous software developer, with a keen interest in code crafting and problem-solving various problems or create my own innovative way. My journey for programming started, at the end of my GCSEs, where I decided upon a career path within software. Since then I have been learning more about programming, adding to my current skillset by building projects through University to building them independently.
-
+I'm a zealous software developer, with a keen interest in code crafting and problem-solving. My journey into the software development world started, at the end of my GCSEs, where I made the decision to pursue a career in software development. Ever since, I have been on a relentless quest to expand my knowledge and skills. From building projects during my university studies to independently creating innovative solutions, I have continuously added to my skillset.
 #  
 
 🔭 Currently the project I am working on is a music player application in flutter.  
